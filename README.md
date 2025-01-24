@@ -20,7 +20,7 @@
 
 # 👋 &nbsp; Welcome to my GitHub!
 
-I'm a budding Java developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> hailing from Minsk and currently advancing through my second year at the esteemed Belarusian State University of Informatics and Radioelectronics.Highly motivated specialist excited about Java development, possessing persistence, enthusiasm, and a thirst for knowledge. These qualities enable me to consistently deliver top-notch results in everything I undertake.
+I'm Java developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> hailing from Minsk and currently advancing through my third year at the esteemed Belarusian State University of Informatics and Radioelectronics.Highly motivated specialist excited about Java development, possessing persistence, enthusiasm, and a thirst for knowledge. These qualities enable me to consistently deliver top-notch results in everything I undertake.
 
 Apart from my technical skills, I am an active sports enthusiast who believes that it helps me maintain focus and concentration during work. It also promotes precision and clarity of thought, allowing me to approach problem-solving creatively. I have a strong passion for learning and continuously improving my skills, both in my work and other areas of life. I approach tasks with a commitment to delivering the highest quality results. I am adaptable to new circumstances and can maintain efficiency even in stressful situations. 😎.
 
