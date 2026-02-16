@@ -105,25 +105,27 @@ object Vlad : BackendEngineer() {
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-## `> stats`
+## `> neofetch`
 
-<div align="center">
+```
+vlad@backend ~ $ neofetch
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vlados4an&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Vlados4an&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlados4an&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=6" height="140" />
-
-</div>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vlados4an&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" width="100%" />
-
-<!-- Snake animation - needs GitHub Action setup (see below) -->
-<!-- <img src="https://raw.githubusercontent.com/Vlados4an/Vlados4an/output/github-snake-dark.svg" width="100%"> -->
+        ██╗  ██╗██╗   ██╗███╗   ███╗    vlad@backend
+        ██║  ██║██║   ██║████╗ ████║    ─────────────────────
+        ██║  ██║██║   ██║██╔████╔██║    OS:        JVM 21 (Corretto)
+   ██   ██║╚██╗ ██╔╝██║╚██╔╝██║    Host:      Microservices Cluster
+    █████╔╝  ╚████╔╝ ██║ ╚═╝ ██║    Kernel:    Kotlin 2.x / Java 21
+    ╚════╝    ╚═══╝  ╚═╝     ╚═╝    Uptime:    2+ years in production
+                                        Packages:  Spring, Ktor, Hibernate
+    ┌──────────────────────────┐        Shell:     IntelliJ IDEA / vim
+    │  Backend systems that    │        Resolution: Distributed & Scalable
+    │  handle real traffic,    │        DE:        Event-Driven Architecture
+    │  real money,             │        WM:        Kubernetes + Helm
+    │  real scale.             │        Terminal:  GitLab CI/CD
+    └──────────────────────────┘        CPU:       Kafka + RabbitMQ
+                                        GPU:       Grafana + Prometheus
+                                        Memory:    PostgreSQL / MongoDB / Redis
+```
 
 ---
 
